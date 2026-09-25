@@ -24,4 +24,8 @@
     - Break
     - Continue
   - Switch
+
+## Approfondimento
+
+- [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) — guida gratuita e open source per proseguire lo studio dello sviluppo tipizzato in italiano.
  
